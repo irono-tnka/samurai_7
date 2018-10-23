@@ -9,6 +9,10 @@ Things you may want to cover:
 - 10/24
   MyApp_samurai_7を作成
 
+ rails generate controller StaticPages home help
+
+で、home, helpのページを作成
+
 
 # def
 
