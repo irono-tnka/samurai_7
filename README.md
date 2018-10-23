@@ -5,6 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
+# やること　samurai 7章
+- 10/24
+  MyApp_samurai_7を作成
+
+
+# def
+
 * Ruby version
 
 * System dependencies
@@ -22,3 +29,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# samurai_7
